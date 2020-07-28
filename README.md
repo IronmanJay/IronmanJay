@@ -29,3 +29,6 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=IronmanJay)](https://github.com/IronmanJay/github-readme-stats)
 
 ### Github Repository
+<a href="https://github.com/IronmanJay/UserBehaviorAnalysis">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=IronmanJay&repo=UserBehaviorAnalysis&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
