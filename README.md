@@ -1,7 +1,7 @@
 ### Hi there,I'm IronmanJay 👋
 | LeetCode  |CSDN |
 | ----  | --- |
-| [点我直达](https://leetcode-cn.com/u/ironmanjay/)|[点我直达](https://me.csdn.net/IronmanJay)|
+| [ClickMe](https://leetcode-cn.com/u/ironmanjay/)|[ClickMe](https://me.csdn.net/IronmanJay)|
 
 ### Languages and Tools
 <p>  
