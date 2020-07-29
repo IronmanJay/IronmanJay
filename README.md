@@ -3,7 +3,7 @@
 | ----  | --- | --- |
 |&nbsp;&nbsp;[ClickMe](https://leetcode-cn.com/u/ironmanjay/)|[ClickMe](https://me.csdn.net/IronmanJay)|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ClickMe](https://shimo.im/mindmaps/T3GHVChYRYQC8g9c/)|
 
-### Languages and Tools
+### Languages and Tools :bulb:
 <p>  
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
@@ -34,10 +34,10 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
 </p>
 
-### Github State
+### Github State :sunny:
 [![IronmanJay's github stats](https://github-readme-stats.vercel.app/api?username=IronmanJay)](https://github.com/IronmanJay/github-readme-stats)
 
-### Github Repository
+### Github Repository :octocat:
 <a href="https://github.com/IronmanJay/UserBehaviorAnalysis">
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=IronmanJay&repo=UserBehaviorAnalysis&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
