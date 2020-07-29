@@ -35,7 +35,7 @@
 </p>
 
 ### Github State
-[![IronmanJay's github stats](https://github-readme-stats.vercel.app/api?username=IronmanJay)](https://github.com/anuraghazra1/github-readme-stats)
+[![IronmanJay's github stats](https://github-readme-stats.vercel.app/api?username=IronmanJay)](https://github.com/IronmanJay/github-readme-stats)
 
 ### Github Repository
 <a href="https://github.com/IronmanJay/UserBehaviorAnalysis">
