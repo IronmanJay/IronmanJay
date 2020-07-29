@@ -1,5 +1,5 @@
 ### Hi there,I'm IronmanJay 👋
-| LeetCode  |CSDN |  Shimo-LeetCode  |
+| LeetCode  |CSDN | Shimo-LeetCode |
 | ----  | --- | --- |
 | [ClickMe](https://leetcode-cn.com/u/ironmanjay/)|[ClickMe](https://me.csdn.net/IronmanJay)|[ClickMe](https://shimo.im/mindmaps/T3GHVChYRYQC8g9c/)|
 
