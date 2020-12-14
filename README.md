@@ -1,7 +1,7 @@
 ### Hi there,I'm IronmanJay 👋
 | LeetCode  |CSDN | Shimo-LeetCode | Gitee | GitHub |
 | ----  | --- | --- | --- | --- |
-|&nbsp;&nbsp;[ClickMe](https://leetcode-cn.com/u/ironmanjay/)|[ClickMe](https://me.csdn.net/IronmanJay)|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ClickMe](https://shimo.im/mindmaps/T3GHVChYRYQC8g9c/)|[ClickMe](https://gitee.com/)|[ClickMe](https://github.com/IronmanJay)|
+|&nbsp;&nbsp;[ClickMe](https://leetcode-cn.com/u/ironmanjay/)|[ClickMe](https://me.csdn.net/IronmanJay)|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ClickMe](https://shimo.im/mindmaps/T3GHVChYRYQC8g9c/)|[ClickMe](https://gitee.com/IronmanJay)|[ClickMe](https://github.com/IronmanJay)|
 
 ### Languages and Tools :bulb:
 <p>  
