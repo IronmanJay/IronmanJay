@@ -86,11 +86,6 @@
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=IronmanJay&repo=DesignPattern&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 
-<a href="https://github.com/IronmanJay/BackgroundManagementSystemBasedOnSpringBootAndVue">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=IronmanJay&repo=BackgroundManagementSystemBasedOnSpringBootAndVue&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
-
 <a href="https://github.com/IronmanJay/LSBInformationHiding">
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=IronmanJay&repo=LSBInformationHiding&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
-
